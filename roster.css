@@ -107,6 +107,14 @@ body {
     box-shadow: 0px 0px 3px 5px black;
   }
 
+.weary {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 3px 5px #889279;
+}
+
+
   .siy {
     width: 120px;
     height: 120px;
