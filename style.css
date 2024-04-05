@@ -88,7 +88,7 @@ a {
       position: absolute;
       width: 0%;
       height: 4px;
-      background-color: rgb(123, 18, 203)
+      background-color: rgb(114, 189, 251)
   }
   
   #borderRight,
@@ -96,7 +96,7 @@ a {
       position: absolute;
       width: 3px;
       height: 0%;
-      background-color: rgb(123, 18, 203)
+      background-color: rgb(128, 194, 252)
   }
 
 
@@ -111,7 +111,7 @@ pre {
 	font-size: 13px;
 	user-select: none;
 	color: #ffffff;
-	background: repeating-linear-gradient(120deg, hwb(0 0% 100%) 0%, #ff0000 20%, hwb(0 100% 0%) 20%);
+	background: repeating-linear-gradient(120deg, hwb(0 0% 100%) 0%, #83bcf8 20%, hwb(0 100% 0%) 20%);
 	background-size: 60vw 60vw;
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
