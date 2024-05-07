@@ -1126,3 +1126,35 @@ body {
         /* Non-prefixed version, currently
 										supported by Chrome, Edge, Opera and Firefox */
     }
+
+
+    
+
+  .website-counter {
+	visibility: hidden;
+	width: 120px;
+	background-color: #000;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 8px 0;
+	position: absolute;
+	z-index: 1;
+	bottom: 150%;
+	left: 50%;
+	margin-left: -63px;
+	transform: scale(0);
+	transition: ease-in-out 150ms
+  }
+
+  body,
+  .website-counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    display: inline-block;
+  }
+
+
