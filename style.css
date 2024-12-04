@@ -88,7 +88,7 @@ a {
       position: absolute;
       width: 0%;
       height: 4px;
-      background-color: rgb(114, 189, 251)
+      background-color: rgb(255, 255, 255)
   }
   
   #borderRight,
@@ -96,7 +96,7 @@ a {
       position: absolute;
       width: 3px;
       height: 0%;
-      background-color: rgb(128, 194, 252)
+      background-color: rgb(255, 255, 255)
   }
 
 
